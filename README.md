@@ -1,2 +1,2 @@
 # ignews
-Projeto que teve por objetivo o estudo do stripe, ReactJS, NextJS
+Projeto que teve por objetivo o estudo do stripe, ReactJS, NextJS, Prismic
